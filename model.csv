@@ -1,0 +1,8 @@
+model_name,model_id,completion,validation_st,validation_exp,audit,limittion_high,limittion_med,limittion_low,complex,model,audit_st,v_outcome
+linear,123,100,1/1/2019,6/1/2019,No,3,2,4,Low,,7/1/2019,Satisfactory
+log,456,60,,,No,,,,High,,,
+logistic,789,100,1/20/2019,3/31/2019,No,2,2,9,Med,,4/12/2019,Needs Improvement
+ml,345,10,,,No,,,,High,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

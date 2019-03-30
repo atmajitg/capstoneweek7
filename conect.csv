@@ -1,0 +1,21 @@
+model_name,model_id,validators,hours
+linear,123,Tom Hardy,3
+linear,123,James Thom,4
+linear,123,Jack Ma,6
+log,456,Mary Kim,20
+log,456,Priyanka H,40
+log,456,Henry K,50
+log,456,Rakesh S,10
+log,456,Jack T,10
+logistic,789,Jack Ma,60
+logistic,789,Peter M,10
+ml,345,Tom Hardy,2
+ml,345,James Thom,4
+ml,345,Jack Ma,90
+ml,345,Mary Kim,18
+ml,345,Priyanka H,34
+ml,345,Henry K,4
+ml,345,Rakesh S,78
+ml,345,Jack T,33
+ml,345,Jack Ma,20
+ml,345,Peter M,20
